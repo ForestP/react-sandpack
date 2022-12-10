@@ -9492,9 +9492,9 @@ qs@^6.5.1:
   integrity sha512-tPSkj8y92PfZVbinY1n84i1Qdx75lZjMQYx9WZhnkofyxzw2r7Ho39G3/aEvSUdebxpnnM4LZJCtvE/Aq3+s9w==
 
 qs@~6.5.2:
-  version "6.5.2"
-  resolved "https://registry.yarnpkg.com/qs/-/qs-6.5.2.tgz#cb3ae806e8740444584ef154ce8ee98d403f3e36"
-  integrity sha512-N5ZAX4/LxJmF+7wN74pUD6qAh9/wnvdQcjq9TZjevvXzSUo7bfmw91saqMjzGS2xq91/odN2dW/WOl7qQHNDGA==
+  version "6.5.3"
+  resolved "https://registry.yarnpkg.com/qs/-/qs-6.5.3.tgz#3aeeffc91967ef6e35c0e488ef46fb296ab76aad"
+  integrity sha512-qxXIEh4pCGfHICj1mAJQ2/2XVZkjCDTcEgfoSQxc/fYivUZxTkk7L3bDBJSoNrEzXI17oUO5Dp07ktqE5KzczA==
 
 query-string@^4.1.0:
   version "4.3.4"
@@ -10778,10 +10778,10 @@ slide@^1.1.3:
   resolved "https://registry.yarnpkg.com/slide/-/slide-1.1.6.tgz#56eb027d65b4d2dce6cb2e2d32c4d4afc9e1d707"
   integrity sha1-VusCfWW00tzmyy4tMsTUr8nh1wc=
 
-smooshpack@^0.0.61:
-  version "0.0.61"
-  resolved "https://registry.yarnpkg.com/smooshpack/-/smooshpack-0.0.61.tgz#a5aecb8fc0db6d8e328ad5b78a1ae9a82570aa12"
-  integrity sha512-262srJIcn07qcDK3Rvz4DJZ4a9TaZPhDvCkZkjmNTvYVf3udoqOG3EEIAyElEc05dFDJdyfCAzF01apkfda12w==
+smooshpack@^0.0.62:
+  version "0.0.62"
+  resolved "https://registry.yarnpkg.com/smooshpack/-/smooshpack-0.0.62.tgz#cb31b9f808f73de3146b050f84d044eb353b5503"
+  integrity sha512-lFuJV2f504/U78sifWy0V2FyoE/8mTgOXM4DL918ncNxAxbtu236XSCLAH3SQwXZWn0JdmRnWs/XU4+sIUVVmQ==
   dependencies:
     codesandbox-api "0.0.23"
     codesandbox-import-utils "^1.2.3"
